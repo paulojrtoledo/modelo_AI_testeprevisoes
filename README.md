@@ -3,6 +3,10 @@
 
 Este projeto em Python tem como objetivo desenvolver um modelo de Inteligência Artificial capaz de prever o score de crédito de clientes de um banco. Através da análise de dados históricos dos clientes, o modelo aprende a identificar padrões e, com base nas informações de novos clientes, classifica seu score de crédito como Ruim, Ok ou Bom.
 
+
+Arquivos da aula: https://drive.google.com/drive/folders/1FbDqVq4XLvU85VBlVIMJ73p9oOu6u2-J?usp=drive_link
+
+
 ## Case
 
 O desafio proposto por um banco foi analisar a base de dados de seus clientes para construir um modelo preditivo automático do score de crédito. Este modelo permitirá ao banco avaliar o risco de crédito de novos clientes de forma eficiente.
