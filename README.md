@@ -112,3 +112,9 @@ O desafio proposto por um banco foi analisar a base de dados de seus clientes pa
 * Exploração de outros algoritmos de classificação.
 * Implementação de técnicas de feature engineering para criar novas variáveis que possam melhorar a capacidade preditiva do modelo.
 * Desenvolvimento de uma interface para utilizar o modelo em um ambiente de produção.
+
+## 📌 Como usar este projeto
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/paulojrtoledo/modelo_AI_testeprevisoes.git
